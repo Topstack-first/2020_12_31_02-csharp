@@ -1,0 +1,4 @@
+1.Your task is to calculate the best vertical seam with the min total energy (min distortion) 
+to be removed from the original image(dynamic programming).
+2.Undirected graph and multiple edges are given. Determine whether the graph is a tree(graph).
+implementation in c#
